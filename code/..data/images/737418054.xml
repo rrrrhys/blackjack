@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>737418054.jpg</filename>
+        <path>..data/images/737418054.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>608</width>
+                <height>608</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>d06</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>167</xmin>
+                        <ymin>491</ymin>
+                        <xmax>227</xmax>
+                        <ymax>573</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>d06</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>90</xmin>
+                        <ymin>92</ymin>
+                        <xmax>148</xmax>
+                        <ymax>173</ymax>
+                </bndbox>
+        </object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>206132941.jpg</filename>
+        <path>..data/images/206132941.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>608</width>
+                <height>608</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>h11</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>490</xmin>
+                        <ymin>404</ymin>
+                        <xmax>526</xmax>
+                        <ymax>495</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>h11</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>230</xmin>
+                        <ymin>95</ymin>
+                        <xmax>266</xmax>
+                        <ymax>187</ymax>
+                </bndbox>
+        </object>
+</annotation>
