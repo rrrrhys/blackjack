@@ -52,7 +52,7 @@ YOLOv3 used for detection speed.  card dataset trained on top of weights of [Com
 
 **NOTES**
 <br/>
-things i could have and would like to do better: replace PIL in detection module with a combination of mss/OpenCV to increase live FPS on macbook / iphone combo; train on additional image sizes, augmentations and epoch-cycle lengths to improve detection results; train on a representative hand dataset to improve recognition and filtering of hand movements during use.
+things i could have and would like to do better: replace PIL in detection module with a combination of mss/OpenCV to increase live FPS on macbook/iphone feed; train on additional image sizes, augmentations and epoch-cycle lengths to improve detection results; train on a representative hand dataset to improve recognition and filtering of hand movements during use.
 <br/>
 <br/>
 
